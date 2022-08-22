@@ -19,22 +19,22 @@
   },
   {
     "name": "Polyflix MinIO",
-    "url": "https://minio.polyflix.dopolytech.fr/api",
-    "icon": "https://favicons.githubusercontent.com/minio.polyflix.dopolytech.fr",
+    "url": "https://console.minio.polyflix.dopolytech.fr/",
+    "icon": "https://favicons.githubusercontent.com/console.minio.polyflix.dopolytech.fr",
     "slug": "polyflix-min-io",
-    "status": "down",
-    "uptime": "3.19%",
-    "uptimeDay": "3.19%",
-    "uptimeWeek": "3.19%",
-    "uptimeMonth": "3.19%",
-    "uptimeYear": "3.19%",
-    "time": 473,
-    "timeDay": 473,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
+    "time": 562,
+    "timeDay": 562,
+    "timeWeek": 562,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2022-08-22": 0
+      "2022-08-22": 21
     }
   },
   {
