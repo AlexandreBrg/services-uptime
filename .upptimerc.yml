@@ -6,7 +6,7 @@ sites:
   - name: Polyflix
     url: https://polyflix.dopolytech.fr
   - name: Polyflix MinIO
-    url: https://minio.polyflix.dopolytech.fr/api
+    url: https://console.minio.polyflix.dopolytech.fr/
   - name: Polyflix SSO
     url: https://sso.polyflix.dopolytech.fr/
   - name: GitLab Polyflix
