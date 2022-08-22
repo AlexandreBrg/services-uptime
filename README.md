@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://alexandrebrg.github.io/services-uptime/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Alexandre Burgoni](https://alexandreburgoni.fr), powered by [Upptime](https://github.com/upptime/upptime).
 
