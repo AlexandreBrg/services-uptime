@@ -9,20 +9,18 @@ sites:
     url: https://console.minio.polyflix.dopolytech.fr/
   - name: Polyflix SSO
     url: https://sso.polyflix.dopolytech.fr/
-  - name: GitLab Polyflix
-    url: https://gitlab.polytech.umontpellier.fr/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /polyflix-uptime
+  baseUrl: /services-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Polyflix Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Polyflix is a knowledge platform where you are able to learn through watching conference videos. 
   navbar:
-    - title: Status
-      href: /
+    - title: Polyflix
+      href: https://polyflix.dopolytech.fr
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
