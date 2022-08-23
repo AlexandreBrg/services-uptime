@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 505,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "time": 509,
+    "timeDay": 509,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/console.minio.polyflix.dopolytech.fr",
     "slug": "polyflix-min-io",
     "status": "up",
-    "uptime": "92.26%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "92.26%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "92.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 532,
     "timeDay": 532,
     "timeWeek": 532,
     "timeMonth": 532,
     "timeYear": 532,
-    "dailyMinutesDown": {
-      "2022-08-22": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Polyflix SSO",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 542,
-    "timeWeek": 542,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "time": 571,
+    "timeDay": 571,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   }
 ]
