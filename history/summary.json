@@ -4,18 +4,20 @@
     "url": "https://polyflix.dopolytech.fr",
     "icon": "https://favicons.githubusercontent.com/polyflix.dopolytech.fr",
     "slug": "polyflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 514,
-    "timeDay": 543,
+    "timeDay": 678,
     "timeWeek": 514,
     "timeMonth": 514,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "Polyflix MinIO",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
-    "timeDay": 537,
+    "timeDay": 674,
     "timeWeek": 563,
     "timeMonth": 563,
     "timeYear": 563,
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 585,
+    "timeDay": 522,
     "timeWeek": 588,
     "timeMonth": 588,
     "timeYear": 588,
