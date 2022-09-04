@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/polyflix.dopolytech.fr",
     "slug": "polyflix",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
-    "time": 557,
-    "timeDay": 633,
-    "timeWeek": 585,
-    "timeMonth": 557,
-    "timeYear": 557,
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 562,
+    "timeDay": 678,
+    "timeWeek": 597,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2022-09-01": 132
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 637,
-    "timeWeek": 712,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "time": 637,
+    "timeDay": 691,
+    "timeWeek": 700,
+    "timeMonth": 637,
+    "timeYear": 637,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 646,
-    "timeWeek": 618,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "time": 601,
+    "timeDay": 661,
+    "timeWeek": 628,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {}
   }
 ]
